@@ -7,7 +7,7 @@ description: Welcome!
 Ferramentas Essenciais
 
 * Notion \(Anotações\)
-* Imsonia \(Testes de API\)
+* Insomnia \(Testes de API\)
 * DevDocs \(Centralizador de documentação\)
 
 
