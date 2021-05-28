@@ -1,5 +1,5 @@
 ---
-description: Guia de instalação do docker no linux
+description: Guia de instalação do docker no linux.
 ---
 
 # Install docker
