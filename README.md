@@ -6,8 +6,9 @@ description: Welcome!
 
 Ferramentas Essenciais
 
-* Notion
-* Imsonia
+* Notion \(Anotações\)
+* Imsonia \(Testes de API\)
+* DevDocs \(Centralizador de documentação\)
 
 
 
