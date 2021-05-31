@@ -4,9 +4,9 @@ description: Comandos importantes para o git.
 
 # Repository
 
-## Adicionar código ao git via repositório remoto.
+## Add code by git repository
 
-Adicione o git ao projeto.
+Add git to the project:
 
 ```
 $ git init

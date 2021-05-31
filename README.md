@@ -1,14 +1,19 @@
 ---
-description: Welcome!!
+description: Welcome!
 ---
 
 # Knowledge
 
-Ferramentas Essenciais
+## eBook for important thinks
 
-* Notion \(Anotações\)
-* Insomnia \(Testes de API\)
-* DevDocs \(Centralizador de documentação\)
+* [x] Git
+* [x] Docker
+
+
+
+
+
+
 
 
 

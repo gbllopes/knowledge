@@ -10,3 +10,7 @@
 
 * [Install docker](docker/install-docker.md)
 
+---
+
+* [Essential tools](essential-tools.md)
+
