@@ -14,3 +14,7 @@
 
 * [Essential tools](essential-tools.md)
 
+## Linux
+
+* [Kill a process running in a particular port - linux](linux/kill-a-process-running-in-a-particular-port-linux.md)
+
