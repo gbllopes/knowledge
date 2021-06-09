@@ -6,9 +6,15 @@
 $ sudo apt-get install imagemagick
 ```
 
-## Convert files:
+## Convert all files:
 
 ```text
 $ mogrify -format jpg *.png
+```
+
+## Convert a specific file:
+
+```text
+$ convert ubuntuhandbook.png ubuntuhandbook.jpg
 ```
 
