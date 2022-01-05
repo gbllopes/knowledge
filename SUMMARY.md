@@ -16,6 +16,7 @@
 
 ## Linux
 
+* [Solaar to show mouse specs](linux/solaar-to-show-mouse-specs.md)
 * [GUI for AMD GPU's](linux/gui-for-amd-gpus.md)
 * [Convert png to jpg](linux/convert-png-to-jpg.md)
 * [Brightness Linux](linux/brightness-linux.md)
