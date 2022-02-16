@@ -21,3 +21,7 @@
 * [Convert png to jpg](linux/convert-png-to-jpg.md)
 * [Brightness Linux](linux/brightness-linux.md)
 * [Kill a process running in a particular port - linux](linux/kill-a-process-running-in-a-particular-port-linux.md)
+
+## Flutter
+
+* [Some commands](flutter/some-commands.md)
